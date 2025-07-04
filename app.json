@@ -1,0 +1,56 @@
+{
+  "id": "64a43953-f125-4aef-a9d1-419a637fdb67",
+  "name": "AtreviaBCOnline",
+  "publisher": "excelia S.L.",
+  "brief": "Desarrollo AtreviaOnline",
+  "description": "Desarrollo AtreviaOnline",
+  "version": "23.5.0.40",
+  "privacyStatement": "https://excelia.com/politica-de-privacidad/",
+  "EULA": "https://excelia.com/politica-de-cookies/",
+  "help": "https://excelia.com/sobre-nosotros/",
+  "url": "https://www.excelia.com/",
+  "runtime": "11.0",
+  "target": "Cloud",
+  "application": "25.0.0.0",
+  "platform": "25.2.35623.0",
+  "contextSensitiveHelpUrl": "http://excelia.com",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true,
+    "applyToDevExtension": false
+  },
+  "features": [
+    "TRANSLATIONFILE",
+    "GENERATECAPTIONS"
+  ],
+  "dependencies": [
+    {
+      "id": "abd19191-37ce-4472-849e-c1e0df0a69d4",
+      "name": "Generación de QR",
+      "version": "19.1.0.2",
+      "publisher": "excelia S.L."
+    },
+    {
+      "id": "09a4df31-f423-407f-8ae8-63dce5fb499e",
+      "name": "CertificaE Portugal",
+      "version": "20.6.0.6",
+      "publisher": "excelia S.L."
+    }
+  ],
+  "idRanges": [
+    {
+      "from": 52000,
+      "to": 52500
+    },
+    {
+      "from": 52810,
+      "to": 52811
+    }
+  ],
+  "build": {
+    "by": "AL Language Extension,16.0.1523709",
+    "timestamp": "2025-06-17T10:53:06.7707565+00:00",
+    "compilerVersion": "16.0.23.16427"
+  }
+}
